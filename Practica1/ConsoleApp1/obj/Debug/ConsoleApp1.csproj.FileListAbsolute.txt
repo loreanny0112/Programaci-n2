@@ -1,0 +1,7 @@
+C:\Users\Loreanny\Desktop\C3-2024\Programación 2\Practica1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Loreanny\Desktop\C3-2024\Programación 2\Practica1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Loreanny\Desktop\C3-2024\Programación 2\Practica1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Loreanny\Desktop\C3-2024\Programación 2\Practica1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Loreanny\Desktop\C3-2024\Programación 2\Practica1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Loreanny\Desktop\C3-2024\Programación 2\Practica1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Loreanny\Desktop\C3-2024\Programación 2\Practica1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
